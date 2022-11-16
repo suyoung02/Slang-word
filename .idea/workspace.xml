@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="472835e2-b79e-4bd6-8a85-25d7dc2d3f99" name="Changes" comment="Create history function and add new slang word function">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slangword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slangword/FileControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slangword/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slangword/data/history.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slangword/data/originslang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slangword/data/slang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/history.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/originslang.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HaFFHyNFwpVzz8gLJC7WsomjiL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="472835e2-b79e-4bd6-8a85-25d7dc2d3f99" name="Changes" comment="" />
+      <created>1668515182504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668515182504</updated>
+      <workItem from="1668515184629" duration="9914000" />
+      <workItem from="1668530622487" duration="349000" />
+      <workItem from="1668565146125" duration="7380000" />
+      <workItem from="1668587291160" duration="3594000" />
+      <workItem from="1668608408462" duration="6815000" />
+    </task>
+    <task id="LOCAL-00001" summary="Read file slangword">
+      <created>1668530725179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668530725179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Read file slangword">
+      <created>1668530947703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668530947703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create history function and add new slang word function">
+      <created>1668591325526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668591325526</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create history function and add new slang word function">
+      <created>1668609068289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668609068289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Read file slangword" />
+    <MESSAGE value="Create history function and add new slang word function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create history function and add new slang word function" />
+  </component>
+</project>
